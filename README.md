@@ -1,6 +1,6 @@
 # 황유정의 Portfolio - [깃허브 블로그 포트폴리오 링크](https://yujeong0423.github.io/Portfolio/)
 
-### 작품이름 언제 어디서나 구동되는 신조어 기반 스마트 키보드 앱
+### 작품이름 : 언제 어디서나 구동되는 신조어 기반 스마트 키보드 앱
 
 ![작품 소개](https://user-images.githubusercontent.com/84081027/199450731-d918f53c-85ae-47e2-801f-5d5105791ae9.png)
 
