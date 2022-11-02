@@ -2,15 +2,16 @@
 
 ### 작품이름 : 언제 어디서나 구동되는 신조어 기반 스마트 키보드 앱
 
-![작품 소개](https://user-images.githubusercontent.com/84081027/199450731-d918f53c-85ae-47e2-801f-5d5105791ae9.png)
-
 ![팀원 소개](https://user-images.githubusercontent.com/84081027/199449708-aff8d390-17eb-4a02-a009-ad397103cef4.png)
+
+![작품 소개](https://user-images.githubusercontent.com/84081027/199450731-d918f53c-85ae-47e2-801f-5d5105791ae9.png)
 
 ![목표 사용자](https://user-images.githubusercontent.com/84081027/199451204-01a809dc-1c74-41c3-9da9-52ce9aaee1f5.png)
 
 ![개발 기간](https://user-images.githubusercontent.com/84081027/199451278-32ecd449-6d64-409d-b9ce-ad74b8fbf1b1.png)
 
 ![개발 기술](https://user-images.githubusercontent.com/84081027/199451610-9a351b24-4fa7-4dd2-9fad-f318b92e6cdf.png)
+
 ![나의 역할과 기여도](https://user-images.githubusercontent.com/84081027/199451773-ba5ac73a-6a2b-4a01-940a-191e10aa40c5.png)
 
 ![나의 역할과 기여도1](https://user-images.githubusercontent.com/84081027/199454367-04174156-5005-4473-8d5a-bc54568058a7.PNG)
