@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SearchView</string>
+
+    <string-array name="dictionary_word">
+        <item>존맛탱</item>
+        <item>TMI</item>
+        <item>TMT</item>
+        <item>믿거</item>
+        <item>낄끼빠빠</item>
+        <item>답정너</item>
+        <item>비담</item>
+        <item>취존</item>
+        <item>핑프</item>
+        <item>할많하않</item>
+        <item>사바사</item>
+        <item>자만추</item>
+        <item>개이득</item>
+        <item>주린이</item>
+        <item>뉴비</item>
+        <item>딸바보</item>
+        <item>ㅇㅋ</item>
+    </string-array>
+</resources>
