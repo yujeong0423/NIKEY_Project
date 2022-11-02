@@ -1,4 +1,4 @@
-# NIKEY_Project 황유정
+# 황유정의 Portfolio - [깃허브 블로그 포트폴리오 링크](ttps://yujeong0423.github.io/Portfolio/)
 
 ### 작품이름 언제 어디서나 구동되는 신조어 기반 스마트 키보드 앱
 
